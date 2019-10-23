@@ -41,18 +41,6 @@ for (var counter=1;counter<101;counter++)
   }
 };
 
-
-//counter ++2
-for (var counter=1;counter<=100;counter+=2)
-{
-  var tambahan=3;
-  if (counter %3==0)
-  {
-    console.log(counter + 'kelipatan 3')
-  }
-};
-
-
 //pertambahan counter 2
 for (var counter=1;counter<=100;counter+=2)
 {
